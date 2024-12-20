@@ -1,0 +1,18 @@
+Esse aqui é Relatorio:
+
+Fontes:
+primeira questão:
+https://catalog.data.gov/dataset/electric-vehicle-population-data 
+segunda questão:
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+Variaveis escolhidas "A maioria ta no codigo":
+1º - Num. de eletricos / Cidades 
+2º - busca pelo id, idade, se fuma, genero com comparação de idade"ta no codigo" e região onde mora.
+
+Justificativa para o uso:
+Comparar o numero de carros eletricos nas cidade dos eua, então voce consegue ter uma resposta por meio de grafico.
+A segunda é previsão de uma pessoas ter um avc então no caso comparamos algos dados agraventes e temos uma resposta falando da possibilidade em num. racionais "é literal voce pensar em % que voce tambem consegue achar o valor em % se prefirir".
+
+Respostas: 
+sendo bem direito da primeira está no grafico e da segunda as respotas mudam conforme o id escolhido.
